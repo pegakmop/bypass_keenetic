@@ -52,7 +52,7 @@ nano /opt/etc/bot_config.py
 Или установи всё одной командой(не рекомендуется!)
 
 ```
-opkg install curl vim-full nano-full python3 python3-pip && curl -O https://bootstrap.pypa.io/get-pip.py && python get-pip.py && pip install pyTelegramBotAPI telethon pathlib && curl -o /opt/etc/bot.py https://raw.githubusercontent.com/dkuytrewq/bypass_keenetic/main/bot.py && curl -o /opt/etc/bot_config.py https://raw.githubusercontent.com/dkuytrewq/bypass_keenetic/main/bot_config.py
+opkg install curl vim-full nano-full python3 python3-pip && curl -O https://bootstrap.pypa.io/get-pip.py && python get-pip.py && pip install pyTelegramBotAPI telethon pathlib && curl -o /opt/etc/bot.py https://raw.githubusercontent.com/dkuytrewq/bypass_keenetic/main/bot.py && curl -o /opt/etc/bot_config.py https://raw.githubusercontent.com/dkuytrewq/bypass_keenetic/main/bot_config.py && vim /opt/etc/bot_config.py
 ```
 Заполните ключ api бота и логин из телеграмма, сохраните файл.
 
