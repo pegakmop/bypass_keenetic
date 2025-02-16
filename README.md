@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/dkuytrewq/bypass_keenetic)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dkuytrewq/bypass_keenetic)
 ![GitHub top language](https://img.shields.io/github/languages/top/dkuytrewq/bypass_keenetic)
-`<a href="https://t.me/bypass_keenetic">`![Telegram](https://img.shields.io/badge/bypass_keenetic--black?style=social&logo=telegram&logoColor=blue) `</a>`
+<a href="https://t.me/bypass_keenetic">![Telegram](https://img.shields.io/badge/bypass_keenetic--black?style=social&logo=telegram&logoColor=blue)</a>
 
 ## Описание проекта
 
